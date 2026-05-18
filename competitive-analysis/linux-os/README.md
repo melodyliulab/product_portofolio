@@ -1,8 +1,8 @@
 # Linux 发行版竞品分析报告
 
-> **作者：** 刘颂（Liu Song）
+> **作者：** Melody Liu
 > **完成日期：** 2026年5月
-> **作者背景：** 前红帽（Red Hat）OpenShift GitOps 软件工程经理，13年企业级 Linux 产品经验
+> **作者背景：** 前红帽（Red Hat）OpenShift GitOps 软件研发经理，13年企业级 Linux和Kubernetes产品经验
 > **说明：** 本报告基于第一手产品使用体验及行业从业经历，从产品经理视角对主流 Linux 发行版进行系统性竞品分析。
 
 ---
