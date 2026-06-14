@@ -1040,16 +1040,16 @@ openEuler 通过一套操作系统架构，100%支持主流计算架构，是最
 
 > **📝 填写说明：** 写完报告后，把参考的官网、报告、新闻链接整理在这里，体现研究的严谨性。
 
-- [openEuler 社区官网](https://www.openeuler.org)
-- [统信 UOS 官网](https://www.chinauos.com)
-- [麒麟软件官网](https://www.kylinos.cn)
 - [Red Hat 官方博客](https://www.redhat.com/en/blog)
 - [Ubuntu 官网](https://ubuntu.com)
 - [SUSE 官网](https://www.suse.com)
+- [openEuler 社区官网](https://www.openeuler.org)
+- [统信 UOS 官网](https://www.chinauos.com)
+- [麒麟软件官网](https://www.kylinos.cn)
 - （待补充：信创市场研究报告链接）
 - （待补充：Linux 内核贡献统计来源）
 
 ---
 
-*报告持续更新中 | Last updated: 2026年5月*
+*报告持续更新中 | Last updated: 2026年6月*
 *如有问题或建议，欢迎通过 [Issues](https://github.com/你的用户名/pm-portfolio/issues) 反馈*
